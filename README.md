@@ -13,6 +13,6 @@ Grp 1 :
     
     L.Ashwini Balachandran
     
-    Karma Cherring Negi
+    Karma Chhering Negi
     
-    Nitish Sharma
+    Nitish Kumar Sharma

@@ -8,7 +8,11 @@ To go through with this repository, just run the file in colab and import the da
 
 Grp 1 :
     Jha Aditya Dilip
+    
     Arpit Singh
+    
     L.Ashwini Balachandran
+    
     Karma Cherring Negi
+    
     Nitish Sharma
